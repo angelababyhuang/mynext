@@ -105,3 +105,10 @@ public
 # Temporary folders
 tmp/
 temp/
+
+# Specstory files
+.specstory/
+
+# Large backup files
+dependencies-backup.tar.gz
+*.tar.gz
